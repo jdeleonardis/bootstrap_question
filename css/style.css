@@ -47,19 +47,21 @@ body p {
     text-align: center;    
 }
 
-#table {
-  width: 20%;
+/* #table {
+  width: 50%;
+  background-color: red;
 }
 
 #words {
-  /* display: inline-block; */
-  width: 80%;
-}
+  display: block;
+  width: 40%;
+} */
 
 /* special css only for index.html*/
-/* #social_media_icons {
+#social_media_icons {
     margin-top: 10px;
-} */
+
+}
 
 /* #test1 {
   width: 20%;
